@@ -1,0 +1,1 @@
+put php-react folder in htdocs
